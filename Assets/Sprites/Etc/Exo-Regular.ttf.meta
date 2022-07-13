@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 6714cec1af5ddfe4482e567ce2d0a23c
+timeCreated: 1522034655
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 100
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Exo
+  fontNames:
+  - Exo
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
